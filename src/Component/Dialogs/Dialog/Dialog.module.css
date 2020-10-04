@@ -1,0 +1,15 @@
+.Dialog {
+    color: hotpink;
+}
+.activeD {
+    color: silver;
+}
+.Dialog  img {
+    width: 20px;
+    row-gap: 20px;
+    border-radius: 20px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+

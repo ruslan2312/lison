@@ -1,0 +1,20 @@
+
+.items a {
+      color: powderblue;
+      text-decoration: none;
+  }
+ 
+  
+  .h3 {
+    color: powderblue;
+  }
+
+  .h3 img {
+    width: 30px;
+    border-radius: 20px;
+  
+    grid-area: a ;
+    font: left;
+
+  }
+ 

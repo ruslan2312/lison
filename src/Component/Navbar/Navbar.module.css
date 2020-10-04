@@ -1,0 +1,29 @@
+.nav {
+    grid-area: n;
+    background-color:grey;
+    padding:10px;
+   
+  }
+.items a {
+      color: powderblue;
+      text-decoration: none;
+  }
+ 
+  a.active {
+    color: rgb(0, 0, 243);
+  }
+  .h3 {
+    color: powderblue;
+  }
+
+  .h3 img {
+    width: 30px;
+    border-radius: 20px;
+    margin: 5px;
+
+  }
+
+.ssd {
+
+word-spacing: 10px;
+}
